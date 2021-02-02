@@ -1,0 +1,17 @@
+{
+  "name": "bilibili_live_wssdemo",
+  "version": "1.0.0",
+  "description": "哔哩哔哩直播 wss 协议 Demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Luncode",
+  "license": "MIT",
+  "dependencies": {
+    "pako": "^2.0.3",
+    "ws": "^7.4.2"
+  }
+}
